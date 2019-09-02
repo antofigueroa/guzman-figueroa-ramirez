@@ -1,5 +1,5 @@
 var trabajos = [{
-    figure: "media/Depoxer.jpg", 
+    figure: "media/Depoxer.JPG", 
     alt: "Inclusión al boxeo a pacientes con parkinson.",
     title: "Depoxer",
     about: "Inclusión al boxeo a pacientes con parkinson.",
