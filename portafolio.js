@@ -22,13 +22,7 @@ var trabajos = [{
     title: "Lámpara de parafina sólida",
     about: "Luminaria de parafina sólida color azul frío",
     url: "https://www.instagram.com/p/B1kD0ZrF8y4/",
-}, {
-    figure: "media/trabajo-05-agrocinta.jpeg",
-    alt: "Sistema sembrador de semillas controladamente espaciadas",
-    title: "Agrocinta",
-    about: "Sistema sembrador de semillas controladamente espaciadas",
-    url: "https://www.instagram.com/p/B1j3A7IFqPx/",
-}, {
+},  {
    figure: "media/Helbert-3.gif",
     alt: "Kit de juego que promueve el desarrollo de habilidades de investigación",
     title: "El laboratorio de Helbert",
