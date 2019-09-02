@@ -1,8 +1,8 @@
 var trabajos = [{
-    figure: "media/RPC19.jpg", 
-    alt: "Herramienta manual cosechadora de papas.",
-    title: "RCP19",
-    about: "Herramienta manual cosechadora de papas.",
+    figure: "media/Depoxer.jpg", 
+    alt: "Ayuda para la coordinación a pacientes con parkinson",
+    title: "Kit de boxeo: Depoxer",
+    about: "Ayuda para la coordinación a pacientes con parkinson",
     url: "https://www.instagram.com/p/B1kDL6bFA1J/",
 }, {
     figure: "media/Tostador Ilko.jpg",
